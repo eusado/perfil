@@ -1,1 +1,5 @@
-# perfil
+- 👋 Oi, eu sou @eusado
+- 👀 Estou interessado em computadores
+- 🌱 Atualmente estou aprendendo pensamento computacional
+- 💞️ Estou procurando colaborar em...
+- 📫 Como chegar até mim...
