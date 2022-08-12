@@ -1,4 +1,4 @@
-- 👋 Oi, eu sou @eusado
+- 👋 Oi, eu sou Gabriel
 - 👀 Estou interessado em computadores
 - 🌱 Atualmente estou aprendendo pensamento computacional
 - 💞️ Estou procurando colaborar em...
