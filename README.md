@@ -1,4 +1,4 @@
-- 👋 Oi, eu sou Gabriel
+- 👋 Oi, eu sou Gabriel Stanger
 - 👀 Estou interessado em computadores
 - 🌱 Atualmente estou aprendendo pensamento computacional
 - 💞️ Estou procurando colaborar em...
